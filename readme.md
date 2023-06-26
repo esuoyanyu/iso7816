@@ -15,7 +15,7 @@ ATR格式
 
 TS:
 > 0x3B:正向约定，HLHHLHHHLLH，高电平表示1，低电平表示0，先发送低字节。
-0x3F:反向约定，HLHHLHHHLLH，高电平表示0，低电平表示1，先发送高字节。
+> 0x3F:反向约定，HLHHLHHHLLH，高电平表示0，低电平表示1，先发送高字节。
 
 T0:
 |Bit8(msb)|Bit7|Bit6|Bit5|Bit4|Bit3|Bit2|Bit1(lsb)|
